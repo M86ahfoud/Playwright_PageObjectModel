@@ -1,0 +1,9 @@
+{
+    "customer": {
+        "email": "test@playwright-testing.com",
+        "username": "tomsmith",
+        "password" : "SuperSecretPassword!"
+    }
+    
+
+}

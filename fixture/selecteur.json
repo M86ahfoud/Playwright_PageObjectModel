@@ -1,0 +1,7 @@
+{
+    "customerLogin": {
+        "username" : "Username",
+        "password" : "Password",
+        "login_button": "button"
+    }
+}
