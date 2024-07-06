@@ -2,6 +2,7 @@
     "customerLogin": {
         "username" : "Username",
         "password" : "Password",
-        "login_button": "button"
+        "login_button": "#login > button"
+        
     }
 }
